@@ -1,0 +1,7 @@
+D:\CODE\Sample\SolvedProblemReducingDishes\SolvedProblemReducingDishes\obj\Debug\SolvedProblemReducingDishes.csproj.CoreCompileInputs.cache
+D:\CODE\Sample\SolvedProblemReducingDishes\SolvedProblemReducingDishes\bin\Debug\SolvedProblemReducingDishes.exe.config
+D:\CODE\Sample\SolvedProblemReducingDishes\SolvedProblemReducingDishes\bin\Debug\SolvedProblemReducingDishes.exe
+D:\CODE\Sample\SolvedProblemReducingDishes\SolvedProblemReducingDishes\bin\Debug\SolvedProblemReducingDishes.pdb
+D:\CODE\Sample\SolvedProblemReducingDishes\SolvedProblemReducingDishes\obj\Debug\SolvedProblemReducingDishes.exe
+D:\CODE\Sample\SolvedProblemReducingDishes\SolvedProblemReducingDishes\obj\Debug\SolvedProblemReducingDishes.pdb
+D:\CODE\Sample\SolvedProblemReducingDishes\SolvedProblemReducingDishes\obj\Debug\SolvedProblemReducingDishes.csprojAssemblyReference.cache
